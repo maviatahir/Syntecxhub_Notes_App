@@ -79,13 +79,13 @@ NoteFlow/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/maviatahir/Syntecxhub_Notes_App.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd NoteFlow
+cd Syntecxhub_Notes_App
 ```
 
 Install dependencies:
